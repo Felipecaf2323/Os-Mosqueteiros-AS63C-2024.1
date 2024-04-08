@@ -10,3 +10,5 @@
 - Gabriel Souza Muniz
 - Henry Ossamu Chida
 - Kaique Tavares Zambrano
+
+# Descrição do Projeto:
