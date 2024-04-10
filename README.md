@@ -3,10 +3,10 @@
 # Desenvolvimento Ágil - 2024.1
 
 # Integrantes:
-- Andre Troise Agostinis
-- Antonio Marcos Fontes Darienço
+- Andre Troise Agostinis        2564106
+- Antonio Marcos Fontes Darienço        2454106       
 - Felipe Esteves de Paula
-- Felipe Padovani Seugling
+- Felipe Padovani Seugling        2453487
 - Gabriel Souza Muniz
 - Henry Ossamu Chida
 - Kaique Tavares Zambrano
