@@ -8,7 +8,7 @@
 - Felipe Esteves de Paula
 - Felipe Padovani Seugling        2453487
 - Gabriel Souza Muniz
-- Henry Ossamu Chida
+- Henry Ossamu Chida        2475456
 - Kaique Tavares Zambrano
 
 # Descrição do Projeto:
