@@ -1,5 +1,5 @@
 # Os-Mosqueteiros
-
+![Logo do projeto, uma lâmpada dourada em um background preto]([link_da_imagem](https://github.com/Felipecaf2323/Os-Mosqueteiros-AS63C-2024.1/blob/main/logo.jpg))
 # Desenvolvimento Ágil - 2024.1
 
 # Integrantes:
