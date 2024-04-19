@@ -7,7 +7,7 @@
 - Antonio Marcos Fontes Darienço        2454106       
 - Felipe Esteves de Paula       2389576
 - Felipe Padovani Seugling        2453487
-- Gabriel Souza Muniz
+- Gabriel Souza Muniz        2475430
 - Henry Ossamu Chida        2475456
 - Kaique Tavares Zambrano        2313073
 
