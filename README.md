@@ -1,5 +1,5 @@
 # Os Mosqueteiros
-<img src="https://github.com/Felipecaf2323/monitoria_POO/assets/127225122/d1c0b645-2fb0-4b2b-af4f-5916ba53d41b" alt="logo" width="280"/><br/>
+<img src="https://github.com/Felipecaf2323/Os-Mosqueteiros-AS63C-2024.1/assets/127225122/d1c0b645-2fb0-4b2b-af4f-5916ba53d41b" alt="logo" width="280"/><br/>
 # Desenvolvimento Ágil - 2024.1
 
 # Integrantes:
