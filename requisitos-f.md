@@ -14,12 +14,12 @@ A tabela abaixo descreve os requisitos levantados acima, considerando a **priori
   
 | ID      |                                 Requisito                                         | Prioridade | Requisitos Relacionados |
 | :--:     | :-----------------------------------------------------------------------: | :------------: | :--------------------------------: |
-| RF01 | O usuário pode cadastrar e gerenciar **listas** de tarefas.                    |  Alta          |   -     |
-| RF02 | O usuário pode **criar, alterar e excluir** tarefas da lista     |  Alta           |  RF01   |
-| RF03 | O usuário **precisa** atribuir um *conteúdo* e um *prazo* para a tarefa .   |  Alta  |      RF02      |
-| RF04 | O usuário pode **criar, alterar e excluir** lembretes.                 |  Média    |     RF03   |
-| RF05 | O usuário pode criar lembretes que não *pertencem* às tarefas.   |  Média   |  RF04           |
-| RF06 | O usuário pode **visualizar** as tarefas e lembretes existentes em um **calendário**.  |  Baixa   |  RF02, RF04  |
+| RF01 | O software deve permitir o usuário cadastrar e gerenciar **listas** de tarefas.                    |  Alta          |   -     |
+| RF02 | O software deve permitir o usuário **criar, alterar e excluir** tarefas da lista     |  Alta           |  RF01   |
+| RF03 | O software deve informar o usuário que este **precisa** atribuir um *conteúdo* e um *prazo* para a tarefa .   |  Alta  |      RF02      |
+| RF04 | O software deve permitir o usuário poder **criar, alterar e excluir** lembretes.                 |  Média    |     RF03   |
+| RF05 | O software deve permitir o usuário criar lembretes que não *pertencem* às tarefas.   |  Média   |  RF04           |
+| RF06 | O software deve permitir o usuário poder **visualizar** as tarefas e lembretes existentes em um **calendário**.  |  Baixa   |  RF02, RF04  |
 
 
 <div style="text-align: center">
