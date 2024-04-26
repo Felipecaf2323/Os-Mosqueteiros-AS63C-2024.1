@@ -8,7 +8,7 @@
 - Felipe Esteves de Paula       2389576
 - Felipe Padovani Seugling        2453487 - ([Felipecaf2323](https://github.com/Felipecaf2323))
 - Gabriel Souza Muniz        2475430
-- Henry Ossamu Chida        2475456
+- Henry Ossamu Chida        2475456 - ([HenryCIX](https://github.com/HenryCIX))
 - Kaique Tavares Zambrano        2313073
 
 # Descrição do Projeto:
