@@ -3,7 +3,7 @@
 # Desenvolvimento Ágil - 2024.1
 
 # Integrantes:
-- Andre Troise Agostinis        2564106      
+- Andre Troise Agostinis        2564106 - ([drezix](https://github.com/drezix))      
 - Antonio Marcos Fontes Darienço        2454106       
 - Felipe Esteves de Paula       2389576
 - Felipe Padovani Seugling        2453487 - ([Felipecaf2323](https://github.com/Felipecaf2323))
