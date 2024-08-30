@@ -4,7 +4,7 @@
 
 # Integrantes:
 - Andre Troise Agostinis        2564106 - ([drezix](https://github.com/drezix))      
-- Antonio Marcos Fontes Darienço        2454106       
+- Antonio Marcos Fontes Darienço        2454106  -([Antoniofontes](https://github.com/AntonioFontess))     
 - Felipe Esteves de Paula       2389576
 - Felipe Padovani Seugling        2453487 - ([Felipecaf2323](https://github.com/Felipecaf2323))
 - Gabriel Souza Muniz        2475430
