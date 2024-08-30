@@ -1,5 +1,6 @@
 # Os Mosqueteiros
 <img src="https://github.com/Felipecaf2323/Os-Mosqueteiros-AS63C-2024.1/assets/127225122/27bf24f2-590d-4eca-9d2b-37143521ec25" alt="logo" width="280"/><br/>
+<img src="https://github.com/AntonioFontess/logo-organizame/blob/main/logo-organizame.jpeg" alt="logo" width="280"/><br/>
 # Desenvolvimento Ágil - 2024.1
 
 # Integrantes:
